@@ -40,6 +40,7 @@ generate_password()
 while password_cracked == False:
   ask_for_guess()
   password_check()
+  
 
 
 
